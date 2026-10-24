@@ -1,8 +1,8 @@
 class Hearth < Formula
   desc "Web UI for ACP coding agents"
   homepage "https://github.com/BobStrogg/hearth"
-  url "https://registry.npmjs.org/hearth-acp/-/hearth-acp-0.5.13.tgz"
-  sha256 "e47cead4c4bf217625ab00204f96040fa79c28fd2a617bec9f478388d9a71df9"
+  url "https://registry.npmjs.org/hearth-acp/-/hearth-acp-0.6.0.tgz"
+  sha256 "2b3b974b11453cf919523d1f0c67b9426dc8c886a12063a1dde4fee5c5fdb31d"
   license "MIT"
   depends_on "node"
   def install
